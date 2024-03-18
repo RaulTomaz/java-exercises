@@ -1,3 +1,28 @@
+/* 
+Write a program that reads two integers from the keyboard.
+
+If both numbers are positive or both are negative, then you need to display their product, otherwise print their sum.
+
+Input example:
+
+5
+8
+Output example:
+
+40
+Input example:
+
+-5
+8
+Output example:
+
+3
+Requirements:
+•	The program must read two integers from the keyboard.
+•	The program should display the product of the read numbers if both are positive or both are negative.
+•	The program should display the sum of the read numbers, if both are non-positive or both are non-negative.
+*/
+
 package en.codegym.task.pro.task00.task0008;
 
 import java.util.Scanner;
